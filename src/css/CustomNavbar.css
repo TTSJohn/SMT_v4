@@ -1,0 +1,29 @@
+.navbar-default .navbar-collapse {
+	background-color: rgb(186,255,248);
+	color: orange;
+}
+
+.navbar-default .navbar-brand {
+	background-color: rgb(186,255,248);
+	color: orange;
+}
+
+
+
+.nav .navbar-nav .navbar-right {
+
+}
+
+
+
+.navbar-default .navbar-form {
+	background-color: rgb(186,255,248);
+	} 
+
+.navbar-default .navbar-form  {
+	background-color: rgb(186,255,248);
+}
+
+.navbar > .container {
+  width: auto;
+}

@@ -1,0 +1,22 @@
+.style {
+    background-color: black;
+    border-top: 1px solid #E7E7E7;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+    height: 85px;
+    width: 100%;
+}
+
+.phantom {
+  display: block;
+  padding: 20px;
+  height: 100px;
+  width: 100%;
+}
+
+.footerText {
+  text-align: center;
+  color: orange;
+  font-family: sans-serif;
+}

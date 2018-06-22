@@ -1,0 +1,32 @@
+.profile-pic {
+	width: 50%;
+}
+
+.person-wrapper {
+	margin-bottom: 2em;
+}
+
+h3 {
+	margin-bottom: 1em;
+}
+
+.meetStaffImage {
+	width: 100%;
+	height: 450px;
+	margin-top: -2em;
+	margin-bottom: 2em;
+}
+
+.courtney-profile-pic {
+	float: left;
+	margin: 0 1em 1em 0;
+	width: 50%;
+}
+
+.employee-wrapper {
+	margin-bottom: 2em;
+}
+
+.employee-profile-pic {
+	width: 50%;
+}

@@ -1,0 +1,33 @@
+.jumbotron {
+	margin-bottom: 4em;
+	background-image: url('/assets/massagePhoto.jpg');
+	background-size: cover;
+}
+
+
+h3 {
+	margin-bottom: 1em;
+}
+
+.welcomeText {
+	text-align: justify-all;
+	float: right;
+}
+
+.jumboText {
+	text-align: center;
+	font-weight: bold;
+}
+
+.jumboText2 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.welcomeText2 {
+	text-align: justify-all;
+}
+
+.welcomeImageOne {
+
+}
