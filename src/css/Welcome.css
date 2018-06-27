@@ -11,7 +11,7 @@ h3 {
 
 .welcomeText {
 	text-align: justify-all;
-	float: right;
+	float: none;
 }
 
 .jumboText {
@@ -29,5 +29,7 @@ h3 {
 }
 
 .welcomeImageOne {
-
+	height: auto;
+	width: 100%;
+	object-fit: contain;
 }

@@ -13,7 +13,7 @@ class Contact extends Component {
 					<p>Stamford Massage Therapy</p>
 					<p>Phone - (203) 290-1830</p>
 					<p>Address - 555 Summer St, Stamford, CT 06901</p>
-					<Image src="assets/SMT_GoogleMaps.png" />
+					<Image src="assets/SMT_GoogleMaps.png" className="mapImage" />
 					<SMTMap 
 					containerElement={<div style={{height:100+'%'}} />}
 					mapElement={<div style={{height:100+'%'}} />} />
